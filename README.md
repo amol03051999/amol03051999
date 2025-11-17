@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amol Shinde</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUNSzPxe2kJ1-4e_tvJadE8OWtkekzKbkbg&s">
+<img align="right" alt="coding" width="380" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUNSzPxe2kJ1-4e_tvJadE8OWtkekzKbkbg&s">
 
 - 👨‍💻 All of my projects are available at [https://euphonious-gelato-88d37f.netlify.app/](https://euphonious-gelato-88d37f.netlify.app/)
 
